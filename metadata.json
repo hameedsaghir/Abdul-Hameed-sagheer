@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow AI Editor",
+  "description": "Upload MS Word documents, apply intelligent edits using Gemini AI based on your custom prompts, and download the modified result instantly.",
+  "requestFramePermissions": []
+}
